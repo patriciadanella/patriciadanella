@@ -11,9 +11,9 @@ I am a **organized person** who prepare for everything before started to works o
 ### Tech Stack
 
 <p align="center">
-    <img title="SketchUp" alt="SketchUp" src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/sketchup.svg" width="40" height="40"/>
-    <img title="Enscape" alt="Enscape" src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/enscape.svg" width="40" height="40"/>
-    <img title="AutoCAD" alt="AutoCAD" src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/autocad.svg" width="40" height="40"/>
+    <img title="SketchUp" alt="SketchUp" src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/sketchup.svg" width="100" height="40"/>
+    <img title="Enscape" alt="Enscape" src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/enscape.svg" width="100" height="40"/>
+    <img title="AutoCAD" alt="AutoCAD" src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/autocad.svg" width="100" height="40"/>
     <img title="Adobe Premiere" alt="Adobe Premiere" src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/adobepremiere.svg" width="40" height="40"/>
     <img title="Git" alt="Git" src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/git.svg" width="75" height="40"/>
 </p>
