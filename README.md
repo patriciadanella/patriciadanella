@@ -26,8 +26,6 @@ I am a **organized person** who prepare for everything before started to works o
 
 <hr>
 
-<br>
-
 <p align="center">
     <a href="https://www.instagram.com/ciaportfolio" target="_blank">
         <img src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/instagram.svg" width="60" height="60"/>
