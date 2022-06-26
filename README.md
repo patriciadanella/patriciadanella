@@ -22,6 +22,7 @@ I am a **organized person** who prepare for everything before started to works o
 
 <p align="center">
     <i>It always seems impossible until it's done.</i>
+    <hr>
     <br>
     <br>
     <a href="mailto:patriciadanella.pd@gmail.com" target="_blank">
