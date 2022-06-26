@@ -22,14 +22,18 @@ I am a **organized person** who prepare for everything before started to works o
 
 <p align="center">
     <i>It always seems impossible until it's done.</i>
-    <hr>
-    <br>
-    <br>
+</p>
+
+<hr>
+
+<p align="center">
+    <a href="https://www.instagram.com/ciaportfolio" target="_blank">
+        <img src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/instagram.svg" width="60" height="60"/>
+    </a>
     <a href="mailto:patriciadanella.pd@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/gmail.svg" width="60" height="60"/>
     </a>
     <a href="https://www.linkedin.com/in/patriciadanella" target="_blank">
         <img src="https://raw.githubusercontent.com/patriciadanella/patriciadanella/main/assets/linkedin.svg" width="100" height="60"/>
     </a>
-    <br>
 </p>
